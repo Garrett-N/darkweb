@@ -1,0 +1,8 @@
+requests
+stem
+pysocks
+fake_useragent
+bs4
+colored
+prettytable
+
